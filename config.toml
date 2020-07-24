@@ -19,6 +19,10 @@ theme = "hugo-theme-learn"
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "blue"
+  
+  BITS = "BITS"
+  Ver = "5.5beta1"
+  EinrichtungenDE = "Behörden und Einrichtungen"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
