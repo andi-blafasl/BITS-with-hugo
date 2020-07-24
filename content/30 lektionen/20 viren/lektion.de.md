@@ -70,3 +70,6 @@ Viren erreichen auf verschiedenen Wegen ihr Ziel:
   * Der Hauptinfektionsweg ist die E-Mail. Unter Umständen kann schon durch das bloße Lesen einer E-Mail ein Virus aktiv werden (etwa wenn die Auto-Vorschau aktiv ist). Besonders gefährlich ist es, mitgeschickte Dateien zu öffnen.
   * Auch durch das Starten von Dateien, die Sie aus dem Internet herunterladen, kann ein Virus aktiv werden. Manchmal reicht sogar das Ansurfen einer infizierten Web-Seite.
 
+## atsldfkjslödfj
+
+lkajsdölfkasjdf
