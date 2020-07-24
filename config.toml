@@ -3,11 +3,12 @@ relativeURLs = true
 
 languageCode = "de-DE"
 defaultContentLanguage = "de"
+defaultContentLanguageInSubdir= false
+
+metaDataFormat = "yaml"
 
 title = "BITS | Behörden-IT-Sicherheitstraining"
 theme = "hugo-theme-learn"
-metaDataFormat = "yaml"
-defaultContentLanguageInSubdir= false
 
 [params]
   editURL = "https://github.com/BITS-Editor/BITS"
