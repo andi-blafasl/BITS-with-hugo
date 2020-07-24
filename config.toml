@@ -1,4 +1,6 @@
 baseURL = "/"
+relativeURLs = true
+
 languageCode = "de-DE"
 defaultContentLanguage = "de"
 
