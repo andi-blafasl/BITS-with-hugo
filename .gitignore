@@ -4,6 +4,9 @@
 # Hugo generated resources
 /resources/_gen/
 
+# Hugo Binary inside path
+hugo.exe
+
 ## OS Files
 # Windows
 Thumbs.db
