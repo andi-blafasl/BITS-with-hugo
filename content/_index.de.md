@@ -29,7 +29,7 @@ Bitte bedenken Sie, dass {{< param BITS >}} ein Angebot darstellt, das grundsät
 Datenschutz
 Die Nutzung dieser Webseite ist ohne Angabe personenbezogener Daten möglich. Ihre IP-Nummer wird ausschließlich zum Aufruf der einzelnen Seiten genutzt. Cookies werden nicht verwendet.
 
-{{% notice info %}}
+{{< alert style="info" >}}
 **Impressum:**
 
 Kommunal Agentur NRW GmbH Cecilienallee 59
@@ -45,4 +45,4 @@ Vertretungsberechtigte:
 * Dipl.-Ing. Michael Lange
   * Dr. jur. Peter Queitsch
 
-{{% /notice %}}
+{{< /alert >}}

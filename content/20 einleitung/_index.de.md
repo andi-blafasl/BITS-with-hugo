@@ -21,13 +21,13 @@ Bitte unterschätzen Sie nicht, welche Bedeutung Informationen über Ihre Person
 
 Dieses Training beschreibt allgemein anerkannte Sicherheitsrichtlinien und vermittelt konkrete Verhaltenshinweise zum praktischen Umgang mit Informationen. Bitte beachten Sie, dass Dienstanweisungen oder -vereinbarungen Ihrer Einrichtung stets Vorrang haben. Im Zweifel wenden Sie sich bitte an die zuständige Ansprechperson.
 
-{{% notice note %}}
+{{< alert style="danger" >}}
 Nach diesem Training werden Sie wissen, wie Sie sich richtig am Computer, am Smartphone und im Internet verhalten. Nutzen Sie Ihr Wissen auch für den privaten Bereich, es drohen überall die gleichen Gefahren!
-{{% /notice %}}
+{{< /alert >}}
 
-{{% notice tip %}}
+{{< alert style="warning" >}}
 Schutzziele der Informationssicherheit:
   * Vertraulichkeit
   * Integrität
   * Verfügbarkeit
-{{% /notice %}}
+{{< /alert >}}

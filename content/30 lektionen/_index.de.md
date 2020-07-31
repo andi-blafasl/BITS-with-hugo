@@ -19,6 +19,6 @@ Am Ende einer Lektion können Sie mit einem kurzen Test Ihr Wissen überprüfen.
 
 IT-Sicherheit betrifft viele Bereiche der täglichen Arbeit. Die BITS-Lektionen behandeln folgenden Themen:
 
-{{% children  %}}
+{{< childpages >}}
 
 Wählen Sie nun oben ein Thema aus, das Sie bearbeiten möchten, oder klicken Sie auf den WEITER-BUTTON, um das gesamte Training in der Standard-Reihenfolge zu durchlaufen.

@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir= false
 metaDataFormat = "yaml"
 
 title = "BITS | Behörden-IT-Sicherheitstraining"
-theme = "hugo-theme-learn"
+theme = "ace-documentation"
 
 [params]
   editURL = "https://github.com/BITS-Editor/BITS"
